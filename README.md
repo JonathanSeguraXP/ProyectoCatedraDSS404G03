@@ -11,8 +11,7 @@
 https://www.notion.so/327707a2092b80538cbac56e989ccee2?source=copy_link
 
 ## 📄 Documento del Proyecto
-
-## 📥 Descargar PDF:
+ 📥 Descargar PDF:
 https://drive.google.com/file/d/1Hm-wujvCKS8DyBchgzeC0Bvr26UzB-2E/view?usp=sharing
 
 ## ⚖️ Licencia
